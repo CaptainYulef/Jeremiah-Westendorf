@@ -11,7 +11,7 @@ background-color:#33ffcc;
 .head {
 font-size:200%;
   font-weight:bold;
-  font-family:smokum;
+  font-family:'smokum';
 }
 .blur {
 filter: blur(50%);
