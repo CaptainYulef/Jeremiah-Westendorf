@@ -1,7 +1,12 @@
 * {
 font-family:'goudy bookletter 1911', 'times new roman', serif;
 }
-
 body {
 background-color:#33ffcc;
+  font-family:100%
+}
+
+.head {
+font-size:200%;
+  font-weight:bold;
 }
