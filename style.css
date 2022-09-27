@@ -18,11 +18,13 @@ filter: blur(50%);
 }
 
 #bg {
+  margin:0%;
+  padding:0%;
     display: inline-block;
     height: 100px;
     width: 130%;
     overflow: hidden;
-  position:absolute;
+  position:relative;
   left:-10%;
   top:-10%;
    background:url(https://tse4.mm.bing.net/th?id=OIP.DoUCKO3c5Zjw4t8kVmS5kAHaE8&pid=Api) top left no-repeat;
