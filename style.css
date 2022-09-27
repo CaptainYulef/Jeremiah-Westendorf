@@ -1,5 +1,7 @@
 * {
 font-family:'goudy bookletter 1911', 'times new roman', serif;
+  padding:1%;
+  margin:1%;
 }
 body {
 background-color:#33ffcc;
@@ -9,4 +11,8 @@ background-color:#33ffcc;
 .head {
 font-size:200%;
   font-weight:bold;
+  font-family:smokum;
+}
+.blur {
+filter: blur(50%);
 }
