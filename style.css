@@ -16,3 +16,13 @@ font-size:200%;
 .blur {
 filter: blur(50%);
 }
+
+#bg {
+    display: inline-block;
+    height: 100px;
+    width: 130%;
+    overflow: hidden;
+  position:absolute;
+  left:-10%;
+  top:-10%;
+}
